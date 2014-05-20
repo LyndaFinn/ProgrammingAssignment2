@@ -1,8 +1,7 @@
 ### My Work
 
 I forked and edited the programming assignment described below. My R code is in the file: cachematrix.R
-
-Here were the instructions
+Below were the assignmentinstructions
 
 ### Introduction
 
